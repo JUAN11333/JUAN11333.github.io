@@ -3,18 +3,18 @@
 }
 
 .product_table th {
-  background-color: brown;
-  color: wheat;
+  background-color: rgb(182, 139, 139);
+  color: rgb(255, 255, 255);
   font-weight: bolder;
 }
 
 .product_table tbody td {
-  border-left: 1px solid #555555;
-  border-bottom: 1px solid #555555;
+  border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
 }
 
 .product_table tfoot {
-  background-color: beige;
+  background-color: rgb(149, 187, 224);
 }
 
 .text-center {
@@ -27,4 +27,8 @@
 .center {
   margin-left: auto;
   margin-right: auto;
+}
+
+.icon {
+  width: 1em;
 }
