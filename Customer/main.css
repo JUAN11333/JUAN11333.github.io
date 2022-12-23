@@ -1,0 +1,18 @@
+.customer_table {
+  border: 1px solid black;
+}
+
+.customer_table th {
+  background-color: rgb(182, 139, 139);
+  color: rgb(255, 255, 255);
+  font-weight: bolder;
+}
+
+.customer_table tbody td {
+  border-left: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+
+.icon {
+  width: 1em;
+}
