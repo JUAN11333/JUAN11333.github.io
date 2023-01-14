@@ -1,0 +1,50 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.quotation_table {
+  font-family: "Times New Roman", Times, serif;
+  border: solid 1px rgb(211, 211, 211);
+}
+.quotation_table tr th {
+  text-align: center;
+  font-weight: bolder;
+  border-bottom: solid 2px #000000;
+  border-right: solid 1px rgb(211, 211, 211);
+  background-color: #e5ba73;
+  height: 50px;
+  font-size: 20px;
+}
+
+.quotation_table tbody td {
+  border-right: solid 1px rgb(211, 211, 211);
+  border-bottom: solid 1px rgb(211, 211, 211);
+  height: 40px;
+  font-size: 20px;
+}
+
+.quotation_table tfoot td {
+  border-right: solid 1px rgb(211, 211, 211);
+  height: 30px;
+  font-size: 20px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #e8e6df;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.icon {
+  width: 1em;
+}
